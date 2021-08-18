@@ -7,6 +7,7 @@ class a_star
     ll n,m,q,s,t;
     vector<vector<pair<ll,ll> > >G1,G,G_r;
     vector<pair<ll,ll> >coord;
+    
     public:
     void begin();
     void perform_astar();
