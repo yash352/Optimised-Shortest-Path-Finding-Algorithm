@@ -10,7 +10,6 @@ int main()
 
     while(true)
     {
-
     cout<<"WHICH ALGORITHM TO PERFORM"<<endl;
     cout<<"1) Bi_Diectional dijkstra?"<<endl;
     cout<<"2) A* Algorithm + Bi Directional"<<endl;
