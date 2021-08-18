@@ -2,6 +2,7 @@
 #define rep(i,s,e) for(ll i=s;i<e;i++)
 #define ll long long
 
+
 void a_star::begin()
 {
     input();
