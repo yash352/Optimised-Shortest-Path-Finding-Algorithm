@@ -6,6 +6,7 @@ class bi_dijkstra
     private:
     ll n,m,q,s,t;
     vector<vector<pair<ll,ll> > >G,G_r;
+    
     public:
     void begin();
     void perform_bidijksta(ll,ll);
