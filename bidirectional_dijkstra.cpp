@@ -135,6 +135,7 @@ pair<ll,vector<ll>>bi_dijkstra::ShortestPath(ll s,ll t,vector<ll>&dist,vector<ll
             result=dist[u]+dist_r[u];
         }
     }
+    
     if(result==LLONG_MAX)
     {
         vector<ll>v;
